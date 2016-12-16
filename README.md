@@ -9,7 +9,7 @@ Credit: "Global Map of Albania ©ISCGM/ASIG (State Authority for Geospatial Info
 
 Contact: ASIG
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/albania.png)
+E-mail: ![email](email.png)
 
 ## metadata
 This Data was developed based on Global Map Specifications version 2.2. 
